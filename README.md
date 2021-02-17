@@ -3,6 +3,7 @@
 
 ## Synopsis
 This replication is done by Vikram. See original github post here: https://github.com/vikjam/mostly-harmless-replication
+
 A bold attempt to replicate the tables and figures from the book [_Mostly Harmless Econometrics_](http://www.mostlyharmlesseconometrics.com/) in the following languages:
 * Stata
 * R
