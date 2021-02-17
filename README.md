@@ -2,7 +2,7 @@
 <img src="http://img12.deviantart.net/f2cc/i/2015/017/2/5/babel_fish_poster__color__by_mrrtist21-d8eb1ea.jpg" width="400">
 
 ## Synopsis
-
+This replication is done by Vikram. See original github post here: https://github.com/vikjam/mostly-harmless-replication
 A bold attempt to replicate the tables and figures from the book [_Mostly Harmless Econometrics_](http://www.mostlyharmlesseconometrics.com/) in the following languages:
 * Stata
 * R
